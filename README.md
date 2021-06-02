@@ -4,7 +4,7 @@
 
 ### A front end developer, full stack student and programming instructor from Brazil 🖥️ 🇧🇷
 
-###### I'm also a film producer 🎥 and a passionate for nature 🌿 and outdoor activities ⛺
+###### I'm also a film producer 🎥 and a passionate about nature 🌿 and outdoor activities ⛺
 
 
 
