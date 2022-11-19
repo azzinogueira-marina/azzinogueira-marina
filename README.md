@@ -10,10 +10,10 @@
 
 ## More about me! 😺
 
-- 🔭 I'm currently working as a programming instructor, teaching frontend and backend contents
+- 🔭 I'm currently working as a programming instructor, teaching frontend and backend contents 🧑🏽‍🏫
 - 🌱 I'm currently studying Typescript, Node.js and SQL
 - I'm looking to collaborate on FOSS iniatives and also on diversity projects 🌈
-- Pronouns: she/her (ela/dela)
+- Pronouns: she/her (ela/dela) 🧑🏽‍💻
 - Fun facts: I love sharks 🦈 and my "rubber duck" is Majin Boo 🦆
 
 
